@@ -1,3 +1,3 @@
 # forkify Project
 
-An spi-based recipe searching application with custom recipe uploads.
+An api-based recipe searching application with custom recipe uploads.
